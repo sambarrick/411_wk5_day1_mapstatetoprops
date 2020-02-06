@@ -3,7 +3,7 @@ export default {
 
     user:
       {
-         username: 'studmuffin_69',
+         username: 'Rando User!',
          email: 'test-user@example.com'
      },
     
